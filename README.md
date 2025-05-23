@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Web Projects**
 
-- 🤝 I’m looking for help with **Improving React best practices and full-stack developments**
+- 🤝 I’m looking for help with **Improving React best practices and full-stack development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohammadzaid07](https://github.com/mohammadzaid07)
 
