@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadzaid07&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadzaid07" /> </p>
 
-- 🔭 I’m currently working on [Fruit Slasher Game](https://github.com/mohammadzaid07/Fruit-Slasher)
+- 🔭 I’m currently working on [AlgoViz-V2.0](https://github.com/mohammadzaid07/AlgoViz-V2.0)
 
-- 🌱 I’m currently learning **React, MERN , Full Stack Development**
+- 🌱 I’m currently learning **React, Front End Development**
 
-- 👯 I’m looking to collaborate on **Open Source Web Projects**
+- 👯 I’m looking to collaborate on **Front End and MERN Projects**
 
 - 🤝 I’m looking for help with **Improving React best practices and full-stack development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohammadzaid07](https://github.com/mohammadzaid07)
 
-- 💬 Ask me about **Frontend Development, HTML, CSS, JavaScript, My projects or learning journey**
+- 💬 Ask me about **Frontend Development, HTML, CSS, JavaScript, React, my projects and learning journey**
 
 - 📫 How to reach me **mohdzaid07091997@gmail.com**
 
