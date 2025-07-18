@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadzaid07&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadzaid07" /> </p>
 
-- 🔭 I’m currently working on [AlgoViz-V2.0](https://github.com/mohammadzaid07/AlgoViz-V2.0)
+- 🔭 I’m currently working on [Appwrite-Blog](https://github.com/mohammadzaid07/myblog-appwrite.git)
 
 - 🌱 I’m currently learning **React, Front End Development**
 
