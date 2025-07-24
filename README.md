@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Zaid</h1>
-<h3 align="center">A Computer Science graduate and aspiring Frontend Developer</h3>
+<h3 align="center">A Front End Developer and aspiring Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadzaid07&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadzaid07" /> </p>
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mohdzaid07091997@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hTBE1Cb1T2Zk23rNO88fc5ij6Aguhrbz/view?usp=sharing](https://drive.google.com/file/d/1hTBE1Cb1T2Zk23rNO88fc5ij6Aguhrbz/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/15kcAQGvAnZm5N3djf8n1HTIokoC0f9pG/view?usp=sharing](https://drive.google.com/file/d/15kcAQGvAnZm5N3djf8n1HTIokoC0f9pG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
