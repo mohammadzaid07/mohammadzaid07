@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Improving React best practices and full-stack development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mohammadzaid07](https://github.com/mohammadzaid07)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/mohammadzaid07)
 
 - 💬 Ask me about **Frontend Development, HTML, CSS, JavaScript, React, my projects, and learning journey**
 
